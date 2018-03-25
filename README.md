@@ -19,9 +19,12 @@ end date: 10-07-2018
 - 2574 stehekin: tsc
 
 ## gear list:
+- ula circuit pack
+- zpacks 20 sleeping bag
+
 
 ## clothing list:
-hiking - desert
+- hiking - desert
 - long sleeved sun shirt
 - lululemon shorts
 - trail runners

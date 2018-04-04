@@ -19,32 +19,73 @@ end date: 10-07-2018
 - 2574 stehekin: tsc
 
 ## gear list:
+### big three
 - ula circuit pack
+- cirriform dw 1p silpoly tent
 - zpacks 20 sleeping bag
 
+### sleep system
+- thermarest prolite size small sleeping pad
+- liner
+- bl top
+- bl bottoms
+- sleeping socks
+- pocket hat
 
-## clothing list:
-- hiking - desert
-- long sleeved sun shirt
+
+### clothing list:
+- long sleeved sun shirt (desert)
+- merino wool t shirt (rest of trail)
 - lululemon shorts
 - trail runners
-- gaiters
+- dirty girl gaiters
 - bandana on neck
 - nike baseball cap
 - lululemon sports bra
 - patagonia underwear
-- toe socks
+- injinji toe socks
 
-## layering pieces:
+### layering pieces:
 - atom lt
-- houdini windshirt
+- mh rain jacket
+- mh ghost whisperer
 - climbing pants
 - patagonia long sleeved merino
+- alpaca wool gloves
+- patagonia better sweater vest
+- merino buff
 
-## sleeping clothes:
+
+### sleeping clothes:
 - baselayer top
 - baselayer bottom
 - socks
 - pocket hat
+
+### miscellaneous
+- bug net
+- sunscreen
+- deet
+
+### food 
+- msr pocketrocket 2 stove
+- optimus titanium long spoon
+- pot
+- mug
+- pocket knife
+- pot & mug cozy (homemade)
+- ursack bear bag
+
+### water
+- sawyer squeeze filtration system
+- platypus gravityworks 2L reservoir
+- platypus big zip lp hydration system
+
+### electronics
+- iPhone 7
+- lifeproof case fre
+- iPod shuffle
+- kindle
+- external battery pack
 
 
